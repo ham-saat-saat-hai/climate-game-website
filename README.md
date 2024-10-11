@@ -6,7 +6,7 @@ The website is built on [Hugo](https://gohugo.io/getting-started/quick-start/), 
 
 # [For Team] How to add meeting notes to the website
 Static Site Generators separate content from style.
-To update the website
+To update the website, you can either use GitHub's web editor or open web version of Visual Studio Code by typing `.` from home page of the Repository. 
 - navigate the `climate-game-website/content/notes`
 - create a new folder for the note with the date as the folder name (for example `2024-09-13`)
 - Within the created folder, create a new `index.md` file
