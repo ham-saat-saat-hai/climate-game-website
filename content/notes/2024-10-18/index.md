@@ -26,6 +26,4 @@ He has developed four table-top games with the help of design intern, game cafe 
 ## Resources
 - [The Faces of Climate Resilience](https://www.ceew.in/faces-of-climate-resilience). Dr Kalluri can reach out to the CEEW team if we need
 - Check out his [LinkedIn Profile](https://www.linkedin.com/in/dr-balaji-kalluri-phd-a95a4931/details/featured/) for his games
-
-
  
