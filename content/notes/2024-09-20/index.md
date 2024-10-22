@@ -16,23 +16,23 @@ cascade:
 - Finalizing on game content– number of scenarios, time spent, weight given to decisions - maybe consult a game expert on this before we start?
 
 ### For ELM Office Hours on 2024-09-21:
-– Key areas of interviews for stakeholder research identified–	
-    – Gamers (between 16-20 years and beyond)
-    – People interested in climate
-    – People NOT interested in games or climate
-    – Area experts in gaming
-    – Area experts in climate science
-    – Storytellers
-– Possible people (faculty, students) we could interview were identified (names withheld for privacy)
-– Plan to reach out and ideate on questions that should be focussed on. Team clear on expectation for a free-flowing, semi-structured interview
+- Key areas of interviews for stakeholder research identified–	
+   - Gamers (between 16-20 years and beyond)
+   - People interested in climate
+   - People NOT interested in games or climate
+   - Area experts in gaming
+   - Area experts in climate science
+   - Storytellers
+- Possible people (faculty, students) we could interview were identified (names withheld for privacy)
+- Plan to reach out and ideate on questions that should be focussed on. Team clear on expectation for a free-flowing, semi-structured interview
 
 ### Games to Try
-– Shasn
-– Plague
-– Civilization
-– Democracy 
-– Hitman
-– Keep Cool
-– Catan
-– Braid
+- Shasn
+- Plague
+- Civilization
+- Democracy
+- Hitman
+- Keep Cool
+- Catan
+- Braid
 
