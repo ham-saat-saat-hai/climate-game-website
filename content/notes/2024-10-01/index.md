@@ -34,4 +34,4 @@ cascade:
 - Characters could appear 3D to feel real and relatable
 - Create online community to share strategies and promote discussions
 - Hero With The Thousand Faces for narrative template
-- Chat with Krish, another CW faculty, to see how to create compelling hero arcs
+- Chat with [Krish](https://www.ashoka.edu.in/profile/krishtijeet-das/), another CW faculty, to see how to create compelling hero arcs
