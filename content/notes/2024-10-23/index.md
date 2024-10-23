@@ -26,6 +26,15 @@ cascade:
   - Providers: Varutri (coverer, guardian) or Prakrit (natural, nature-related)
   - Imperials: Aalim (learned) or Lalit (pure/untarnished)
   - Aspirants: Trushna (thirst) or Yatharth (reality)
+ 
+### Online PoA
+- Meet at 1030 everyday on Discord to discuss individual assignments
+- Meet at 1800 everyday on Discore to go over work that everyone
+- Extensively document research/notes that are individually taken [on story doc](https://docs.google.com/document/d/17cpCkUV-5KoKnTOIkNQ15qG8pGS_GusekpGKpQXAGhQ/edit?tab=t.0#heading=h.d9dqn3g74rps)
+- At the end of each day, one person summarises and adds notes to website
+- Work to be divided includes
+  - Game scenarios
+  - Survey analysis
 
 ### Main Character Syndrome
 
