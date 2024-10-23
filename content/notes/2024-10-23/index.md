@@ -37,11 +37,23 @@ cascade:
   - Survey analysis
 
 ### Main Character Syndrome-
-- Main character from T-Y. BAMF woman as protagonist. 40-50s.
-- Tragic past–
-- Motivation–
-- Call to adventure– Venus destroyed by runaway greenhouse effect. Prapanch too is displaying evidence of going through this. Info has been hidden by A-L. 
+- Main character from T-Y. BAMF woman as protagonist. In her 40-50s.
 
+Based on [Joseph Campbell and the Hero’s Journey](https://www.masterclass.com/articles/writing-101-what-is-the-heros-journey#6UWvL8cDzsbpOVbOL5VRyL)
+
+- Backstory 1 – Sister Dies; knowledge hoarding; rebel group 
+- Election Campaign begins – Call to Adventure
+- Game Scenarios 1 and 2  –  – Crossing the Threshold 
+- Character Interaction – Runaway Greenhouse Effect discovery; - motivation solidifies – Belly of the Whale
+- Game Scenario 3 – Meet a friend (character) (P.S. character dies in the end)
+- Game Scenario 4 – Pseudo choice; Failure – Road of Trials
+- Backstory 2 – Dream/character interaction/visiting home – Atonement of the Father
+- Game Scenario 5 – Increase intensity, compromise on held beliefs, 
+- Game Scenario 6 – Increase intensity, compromise on held beliefs, 
+- Game Scenario 7 – Pseudo choice; feels real, the friend dies – Moral Reckoning
+- Election Results – Crossing of the Return Threshold
+- Game Scenario 8 – Last Tragedy
+ 
 
 
 
