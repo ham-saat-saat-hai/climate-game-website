@@ -1,6 +1,6 @@
 ---
 title: "2024-10-4"
-date: 2024-09-05
+date: 2024-10-23
 description: "Brainstorming & meeting with Eeshto, the gaming society at Ashoka University."
 
 cascade:
@@ -33,4 +33,4 @@ cascade:
 - Suggested using Qualtrics for economic and psychological elements.
 - Adviced us to discuss PC requirements with Prof. Debayan.
 - Potential game jam or hackathon (with food) in collaboration with Eeshto and Pralay.
-- Suggested [itch.io] (https://itch.io/jams) for game jams and [The India Game Developer Conference (IGDC)] (https://indiagdc.com/)
+- Suggested [itch.io](https://itch.io/jams) for game jams and [The India Game Developer Conference (IGDC)](https://indiagdc.com/)
