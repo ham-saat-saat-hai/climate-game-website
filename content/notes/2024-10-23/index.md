@@ -19,4 +19,17 @@ cascade:
 - From survey–
   - Thematic analysis of textual responses
   - Clean data
+
+### Naamkaran
+
+- Names for factions–
+  - Providers: Varutri (coverer, guardian) or Prakrit (natural, nature-related)
+  - Imperials: Aalim (learned) or Lalit (pure/untarnished)
+  - Aspirants: Trushna (thirst) or Yatharth (reality)
+
+### Main Character Syndrome
+
+
+
+
   
