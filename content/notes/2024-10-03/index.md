@@ -23,7 +23,7 @@ We met [Dr Alexander Philips](https://www.ashoka.edu.in/profile/alexander-philli
 - End with a cliffhanger. You become the president and suddenly new environmental crisis emerges.
 ## Resources
 - [Ministry For the Future](https://en.wikipedia.org/wiki/The_Ministry_for_the_Future) 
-- [Climate Changed])(https://archive.org/details/climatechangedpe0000squa/page/n3/mode/2up) – Reforms to capitalism; regulating and managing carbon - away from fossil capitalism 
+- [Climate Changed](https://archive.org/details/climatechangedpe0000squa/page/n3/mode/2up) – Reforms to capitalism; regulating and managing carbon; away from fossil capitalism 
 - Animal’s People, Indra Sinha (Based on Bhopal Gas Tragedy and Environmental Justice)
 - [The Unhabitable Earth](https://www.crisrieder.org/thejourney/wp-content/uploads/2019/05/The-Uninhabitable-Earth-David-Wallace-Wells.pdf) (Check the Chapter on storytelling)
 - State of Fear - novel 
