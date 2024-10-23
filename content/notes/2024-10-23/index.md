@@ -11,7 +11,7 @@ cascade:
 
 ### Agenda
 - Create backstory for main character– history, motivation, some form of character arc, what happens in the end
-- Work on story structure (eg: Harmon's story circle, Field's act structure, [Uninhabitable Earth chapter](https://www.crisrieder.org/thejourney/wp-content/uploads/2019/05/The-Uninhabitable-Earth-David-Wallace-Wells.pdf)
+- Work on story structure (eg: [Harmon's story circle](https://blog.reedsy.com/guide/story-structure/dan-harmon-story-circle/), [Field's act structure](https://www.how-to-write-a-book-now.com/Syd-Field.html#:~:text=In%20using%20a%203%2Dact,long%20as%20the%20other%20two), [Uninhabitable Earth chapter](https://www.crisrieder.org/thejourney/wp-content/uploads/2019/05/The-Uninhabitable-Earth-David-Wallace-Wells.pdf)
 - Initiate work on game scenarios– figure out number, increase in intensity; divide work between ourselves
 - Create a PoA for online meetings in the coming days
 - Abhishek: Aesthetics survey
