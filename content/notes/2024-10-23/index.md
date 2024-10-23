@@ -36,7 +36,18 @@ cascade:
   - Game scenarios
   - Survey analysis
 
-### Main Character Syndrome
+### Main Character Syndrome-
+- Main character from T-Y. BAMF woman as protagonist. 40-50s.
+- Tragic past–
+- Motivation–
+- Call to adventure– Venus destroyed by runaway greenhouse effect. Prapanch too is displaying evidence of going through this. Info has been hidden by A-L. 
+
+
+
+
+
+
+
 
 
 
