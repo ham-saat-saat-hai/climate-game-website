@@ -12,13 +12,13 @@ cascade:
 Started at 11.
 To Do:
 
---Submit NDA
---Pitching Doc 
---Contact Memesys, Shreshth (?), Climate Fiction faculty (Alex?)
---Joining Gaming Society 
---Website – condense info up until now. 
---Aesthetics of the game
---Create summary docs for lit review
+-Submit NDA
+-Pitching Doc 
+-Contact Memesys, Shreshth (?), Climate Fiction faculty (Alex?)
+-Joining Gaming Society 
+-Website – condense info up until now. 
+-Aesthetics of the game
+-Create summary docs for lit review
 
 
 ### Notes:
