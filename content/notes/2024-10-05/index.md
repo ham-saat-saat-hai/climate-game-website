@@ -1,7 +1,7 @@
 ---
-title: "2024-09-14 ELM Day 02"
-date: 2024-09-14
-description: "ELM Day 01"
+title: "2024-10-05 Game Play"
+date: 2024-10-05
+description: "Game Play day"
 
 cascade:
   showEdit: false
