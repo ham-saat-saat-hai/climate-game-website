@@ -170,14 +170,12 @@ cascade:
 ## User Personas
 
 Before conducting the in-depth interviews, we made the following categories:
-1. Pro-gamers; active climate-engagers
-2. Noob-gamers; active climate-engagers
-3. Pro-gamers; casuallly climate-interested 
-4. Noob-gamers; casually climate-interested
+1. Pro-gamers; active climate-engagers <img src = "Ecogamer.png">
+2. Noob-gamers; active climate-engagers <img src = "greenfluencer.png">
+3. Pro-gamers; casuallly climate-interested <img src = "pixelpro.png">
+4. Noob-gamers; casually climate-interested <img src = "casualcurio.png">
 
-<img src = "user-categories.jpg">
-
-Through our conversations, we found people who fell under 2., 3., and 4. Through our game, we would like to target 2. and 3. user personas.
+Through our conversations, we found people who fell under 2., 3., and 4. Through our game, we would like to target 2. and 3. user personas, along with 1.
 
 Since the survey was to get baseline understanding about people's climate knoweldge, the data was not directly used to build our user personas. Our personas are based on the 20+ interviews we carried out. 
 
