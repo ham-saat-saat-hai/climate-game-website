@@ -182,7 +182,11 @@ Since the survey was to get baseline understanding about people's climate knowel
 
 ##Naamkaran for factions
 
+- Either names starting from different letters or names using Pra-La-Ya
 
+  - Providers: Varutri (coverer, guardian) or Prakrit (natural, nature-related) <img src = "providers.png">
+  - Imperials: Aalim (learned) or Lalit (pure/untarnished) <img src = "imperials.png">
+  - Aspirants: Trushna (thirst) or Yatharth (reality) <img src = "aspirants.png">
 
 
 
