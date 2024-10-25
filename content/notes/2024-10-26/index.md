@@ -113,21 +113,6 @@ Through our conversations, we found people who fell under 2., 3., and 4. Through
 
 Since the survey was to get baseline understanding about people's climate knoweldge, the data was not suitable to be used to build our user personas. 
 
-## User Personas
-
-Before conducting the in-depth interviews, we made the following categories:
-1. Pro-gamers; active climate-engagers
-2. Noob-gamers; active climate-engagers
-3. Pro-gamers; casuallly climate-interested 
-4. Noob-gamers; casually climate-interested
-
-<img src = "user-categories.jpg">
-
-Through our conversations, we found people who fell under 2., 3., and 4. Through our game, we would like to target 2. and 3. user personas.
-
-Since the survey was to get baseline understanding about people's climate knoweldge, the data was not suitable to be used to build our user personas. 
-
-
 
 
 
