@@ -179,7 +179,7 @@ Before conducting the in-depth interviews, we made the following categories:
 
 Through our conversations, we found people who fell under 2., 3., and 4. Through our game, we would like to target 2. and 3. user personas.
 
-Since the survey was to get baseline understanding about people's climate knoweldge, the data was not suitable to be used to build our user personas. Our personas are based on the 20+ interviews we carried out. 
+Since the survey was to get baseline understanding about people's climate knoweldge, the data was not directly used to build our user personas. Our personas are based on the 20+ interviews we carried out. 
 
 
 
