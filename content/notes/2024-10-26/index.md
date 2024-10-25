@@ -25,4 +25,4 @@ cascade:
 ## Surety in climate change?
 
 - Scored from 1-4 on how sure (1 being 'little sure' and 4 being 'extremely sure')
-- Average rating – 3.82
+- Average rating – 3.82 <img src = "CC_Confidence.png">
