@@ -3,8 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/notes/2024-09-24/</loc>
-    <lastmod>2024-10-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/notes/2024-10-25/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/notes/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -15,56 +27,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/notes/2024-10-04/</loc>
-    <lastmod>2024-10-23T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/notes/</loc>
-    <lastmod>2024-10-23T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-23T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/notes/2024-09-20/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/notes/2024-09-21/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/notes/2024-10-01/</loc>
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/notes/2024-10-03/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/notes/2024-10-18/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/notes/2024-10-17/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/notes/2024-10-18/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -75,8 +51,38 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/notes/2024-10-04/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/notes/2024-10-03/</loc>
+    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/notes/2024-09-27/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/notes/2024-09-24/</loc>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/notes/2024-09-21/</loc>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/notes/2024-09-20/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -134,7 +140,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/notes/2024-10-20/</loc>
+    <loc>http://localhost:1313/survey/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
