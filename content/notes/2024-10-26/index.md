@@ -120,7 +120,7 @@ cascade:
  ### Feelings related to climate change?
 
 - Selected multiple kinds of feelings
-- Top 4 most common included- <img src = "CC_Feelings.png">
+- Top 4 most common included- 
     - Concern-Empathy (67.63%)
     - Fear-Anxiety (54.34%)
     - Powerlessness-Despair (51.45%)
@@ -129,27 +129,36 @@ cascade:
  ### Risk of climate change vs WW3?
 
 - Scored from 1-5 on how important (1 being 'no risk' and 5 being 'extreme risk')
-- Average rating for climate change – 4.40 <img src = "Risk.png">
-- Average rating for World War 3 – 3.17
+<img src = "Risk.png">
+- Average rating for climate change – 4.40 
+- Average rating for World War 3 – 3.17 
 
  ## Headlines true or false?
 
- ## Headline 1 <img src = "White Minimalist Economics Headline News Instagram Post.png">
+ ## Headline 1 
+ 
+ <img src = "White Minimalist Economics Headline News Instagram Post.png">
 
 - 91% think false
 - 9% think true
 
- ## Headline 2 <img src = "White Minimalist Economics Headline News Instagram Post (1).png">
+ ## Headline 2 
+ 
+ <img src = "White Minimalist Economics Headline News Instagram Post (1).png">
 
 - 53% think false
 - 47% think true
 
- ## Headline 2 <img src = "White Minimalist Economics Headline News Instagram Post (2).png">
+ ## Headline 2 
+ 
+ <img src = "White Minimalist Economics Headline News Instagram Post (2).png">
 
 - 11% think false
 - 89% think true
 
- ## Headline 2 <img src = "White Minimalist Economics Headline News Instagram Post (3).png">
+ ## Headline 2 
+ 
+ <img src = "White Minimalist Economics Headline News Instagram Post (3).png">
 
 - 62% think false
 - 38% think true
@@ -170,7 +179,7 @@ Before conducting the in-depth interviews, we made the following categories:
 
 Through our conversations, we found people who fell under 2., 3., and 4. Through our game, we would like to target 2. and 3. user personas.
 
-Since the survey was to get baseline understanding about people's climate knoweldge, the data was not suitable to be used to build our user personas. 
+Since the survey was to get baseline understanding about people's climate knoweldge, the data was not suitable to be used to build our user personas. Our personas are based on the 20+ interviews we carried out. 
 
 
 
