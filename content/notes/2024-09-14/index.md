@@ -9,8 +9,7 @@ cascade:
   hideFeatureImage: true
 ---
 
-Started at 11.30
-
+Started at 11.
 To Do:
 
 --Submit NDA
