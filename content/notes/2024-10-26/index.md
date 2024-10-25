@@ -52,7 +52,53 @@ cascade:
 - 92% believe caused by human activies
 - 6% unsure
 - 2% believe caused by natural environment and other factors
-- <img src = "CC_Cause.png">
+<img src = "CC_Cause.png">
+
+
+## Expected impacts of climate change?
+
+– Scored from 1-5 on likelihood (1 as low and 5 as high)
+
+### Increased temperatures globally
+
+– Average rating – 4.84
+
+### Decreased temperatures globally
+
+– Average rating – 3.09
+
+### Increased potable water
+
+– Average rating – 2.37
+
+### Decreased potable water
+
+– Average rating – 4.15
+
+### Increased heat waves
+
+– Average rating – 4.77
+
+### Increased rates of species extinction
+
+– Average rating – 4.63
+
+### Decreased food production globally
+
+– Average rating – 3.99
+
+### Increased sea levels
+
+– Average rating – 4.59
+
+### Increased intensity of regional storms
+
+– Average rating – 4.40
+
+### No change beyond natural variability
+
+– Average rating – 2.19
+
 
 
 
