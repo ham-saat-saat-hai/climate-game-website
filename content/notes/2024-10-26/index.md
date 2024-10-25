@@ -180,7 +180,7 @@ Through our conversations, we found people who fell under 2., 3., and 4. Through
 Since the survey was to get baseline understanding about people's climate knoweldge, the data was not directly used to build our user personas. Our personas are based on the 20+ interviews we carried out. 
 
 
-##Naamkaran for factions
+## Naamkaran for factions
 
 - Either names starting from different letters or names using Pra-La-Ya
 
