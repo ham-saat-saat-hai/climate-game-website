@@ -137,28 +137,28 @@ cascade:
 
  ## Headline 1 
  
- <img src = "White Minimalist Economics Headline News Instagram Post.png">
+ <img src = "White Minimalist Economics Headline News Instagram Post (1).png">
 
 - 91% think false
 - 9% think true
 
  ## Headline 2 
  
- <img src = "White Minimalist Economics Headline News Instagram Post (1).png">
+ <img src = "White Minimalist Economics Headline News Instagram Post (3).png">
 
 - 53% think false
 - 47% think true
 
- ## Headline 2 
+ ## Headline 3 
  
  <img src = "White Minimalist Economics Headline News Instagram Post (2).png">
 
 - 11% think false
 - 89% think true
 
- ## Headline 2 
+ ## Headline 4
  
- <img src = "White Minimalist Economics Headline News Instagram Post (3).png">
+ <img src = "White Minimalist Economics Headline News Instagram Post.png">
 
 - 62% think false
 - 38% think true
