@@ -99,6 +99,65 @@ cascade:
 
 – Average rating – 2.19
 
+ ### Personal importance of climate change?
+
+- Scored from 1-4 on how important (1 being 'not at all' and 4 being 'very')
+- Average rating – 3.58 <img src = "CC_Importance.png">
+    - 63.6% very important
+    - 30.6% sort of important
+    - 5.8% hardly important
+
+ ### Content related to climate change?
+
+- Scored from 1- on how frequently (1 being 'not at all' and 5 being 'daily')
+- Average rating – 3.51 <img src = "CC_Content.png">
+    - 14.5% daily
+    - 42.2% every few days
+    - 24.3% about a week
+    - 17.9% every few weeks
+    - 1.2% not at all
+
+ ### Feelings related to climate change?
+
+- Selected multiple kinds of feelings
+- Top 4 most common included- <img src = "CC_Feelings.png">
+    - Concern-Empathy (67.63%)
+    - Fear-Anxiety (54.34%)
+    - Powerlessness-Despair (51.45%)
+    - Anger-Frustration (41.62%)
+
+ ### Risk of climate change vs WW3?
+
+- Scored from 1-5 on how important (1 being 'no risk' and 5 being 'extreme risk')
+- Average rating for climate change – 4.40 <img src = "Risk.png">
+- Average rating for World War 3 – 3.17
+
+ ## Headlines true or false?
+
+ ## Headline 1 <img src = "White Minimalist Economics Headline News Instagram Post.png">
+
+- 91% think false
+- 9% think true
+
+ ## Headline 2 <img src = "White Minimalist Economics Headline News Instagram Post (1).png">
+
+- 53% think false
+- 47% think true
+
+ ## Headline 2 <img src = "White Minimalist Economics Headline News Instagram Post (2).png">
+
+- 11% think false
+- 89% think true
+
+ ## Headline 2 <img src = "White Minimalist Economics Headline News Instagram Post (3).png">
+
+- 62% think false
+- 38% think true
+
+
+
+
+
 ## User Personas
 
 Before conducting the in-depth interviews, we made the following categories:
