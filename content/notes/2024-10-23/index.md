@@ -61,6 +61,3 @@ Natural disaster killed her because maybe they were poor, living in bad conditio
 
 - Motivation–
 - Call to adventure– Venus destroyed by runaway greenhouse effect. Prapanch too is displaying evidence of going through this. Info has been hidden by A-L.
-  
-
-
