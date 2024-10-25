@@ -54,25 +54,13 @@ Based on [Joseph Campbell and the Hero’s Journey](https://www.masterclass.com/
   - Game scenarios
   - Survey analysis
 
-<<<<<<< HEAD
-=======
 ### Main Character Syndrome-
 - Main character from T-Y. BAMF woman as protagonist. 40-50s.
 - Tragic past– Tanvi suggested a backstory involving tragic past. knew the knowledge thing and was working towards something rebellious - maybe she had a rebel team or something - her and a bunch of other young people in their early 20s  
 Natural disaster killed her because maybe they were poor, living in bad conditions. Flashbacks of memories with sister - maybe character even carries little trinkets or whatever from her childhood with sister and parents - maybe a picture of all of them + sister stuff) and one day relevation type (think tangled) - discover the key info about the knowledge thing or something else 
 
 - Motivation–
-- Call to adventure– Venus destroyed by runaway greenhouse effect. Prapanch too is displaying evidence of going through this. Info has been hidden by A-L. 
-- 
-
-
->>>>>>> 45da34a (	new file:   index.md)
-
-
-
-
-
-
+- Call to adventure– Venus destroyed by runaway greenhouse effect. Prapanch too is displaying evidence of going through this. Info has been hidden by A-L.
   
 
 

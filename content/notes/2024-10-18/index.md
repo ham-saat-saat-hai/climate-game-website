@@ -1,6 +1,6 @@
 ---
 title: "2024-10-18 | Meeting with Dr Balaji Kalluri"
-date: 2024-10-21
+date: 2024-10-18
 description: "We were asked to contact Dr Balaji Kalluri, a professor of Environmental Studies at FLAME University who also designs games. The meeting notes."
 
 cascade:

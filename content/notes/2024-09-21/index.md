@@ -1,6 +1,6 @@
 ---
 title: "2024-09-21 | Day's Notes"
-date: 2024-10-21
+date: 2024-09-21
 description: "Office Hours + Brainstorming"
 
 cascade:

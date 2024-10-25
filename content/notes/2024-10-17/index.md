@@ -1,6 +1,6 @@
 ---
 title: "2024-10-17 Meeting Notes"
-date: 2024-10-21
+date: 2024-10-17
 description: "Brainstorming session with three-quarters team"
 
 cascade:

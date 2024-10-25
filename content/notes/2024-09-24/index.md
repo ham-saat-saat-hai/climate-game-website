@@ -1,6 +1,6 @@
 ---
 title: "2024-09-24| Meeting with Prof. Gautam Menon"
-date: 2024-10-23
+date: 2024-09-24
 description: "We met with Prof. Gautam to get his initial thoughts on our game and request him to mentor us."
 
 cascade:

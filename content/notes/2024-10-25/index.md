@@ -1,6 +1,6 @@
 ---
 title: "2024-10-25 Meeting Notes"
-date: 2024-10-23
+date: 2024-10-25
 description: "Game Scenario Discussion"
 
 cascade:

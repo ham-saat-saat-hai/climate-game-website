@@ -1,6 +1,6 @@
 ---
 title: "2024-10-03 | Meeting with Dr Alexander Philips "
-date: 2024-10-21
+date: 2024-10-03
 description: "We met Dr Alexander Philips, an English Professor at Ashoka University after discovering he teaches a course called Climate Fiction. He had suggestions on our game’s narrative and useful resources to share."
 
 cascade:

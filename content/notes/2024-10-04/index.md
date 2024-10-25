@@ -1,6 +1,6 @@
 ---
-title: "2024-10-4"
-date: 2024-10-23
+title: "2024-10-04"
+date: 2024-10-04
 description: "Brainstorming & meeting with Eeshto, the gaming society at Ashoka University."
 
 cascade:
