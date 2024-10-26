@@ -163,9 +163,18 @@ cascade:
 - 62% think false
 - 38% think true
 
+# Codes 
+These are some broad themes from our survey, specifically Q24: 
+- Climate Change Awareness and Resources
+- Personal Experiences with Climate Change
+- Frustration with Inaction and Calls for Systemic Change
+- Global Inequality and Climate Justice
+- Environmental Degradation and Pollution Concerns
+- Climate Anxiety and Emotional Response
+- Critiques of Capitalism and Corporate Accountability
+Suggestions for Renewable Energy and Sustainable Alternatives
 
-
-
+There is a lot of frustration about systemic, global inaction. Respondents shared many personal experiences with environmental crises and suggested many resources (songs, youtube videos, games) and they cited anxiety over climate impacts. They voiced the need for renewable alternatives and awareness of global, climate inequality. Many brought up capitalism as a major cause of climate change and pointed out corporate and government accountability - they say individual actions as not being enough to fight the climate crisis and highlighted the need for broader, structural change.
 
 ## User Personas
 
@@ -179,7 +188,6 @@ Through our conversations, we found people who fell under 2., 3., and 4. Through
 
 Since the survey was to get baseline understanding about people's climate knoweldge, the data was not directly used to build our user personas. Our personas are based on the 20+ interviews we carried out. 
 
-
 ## Naamkaran for factions
 
 - Either names starting from different letters or names using Pra-La-Ya
@@ -187,18 +195,3 @@ Since the survey was to get baseline understanding about people's climate knowel
   - Providers: Varutri (coverer, guardian) or Prakrit (natural, nature-related) <img src = "providers.png">
   - Imperials: Aalim (learned) or Lalit (pure/untarnished) <img src = "imperials.png">
   - Aspirants: Trushna (thirst) or Yatharth (reality) <img src = "aspirants.png">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
