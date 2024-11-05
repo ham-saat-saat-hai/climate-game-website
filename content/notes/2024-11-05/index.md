@@ -12,6 +12,9 @@ cascade:
 
 ## Imperials
 
+1. Cautious Crusader <img src = "Imperial_Karyak.jpg">
+2. Power Hungry <img src = "Imperial_Shasak.jpg">
+
 ## Aspirants
 
 1. Ambitious Tinkerer <img src = "Aspirant_Akanksha.jpg">
