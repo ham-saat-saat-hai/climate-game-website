@@ -25,6 +25,14 @@ cascade:
 1. Steely Greenheart <img src = "Provider_Khanak.jpg">
 2. Green Machiavelli <img src = "Provider_Teevra.jpg">
 
+# Scenarios
+
+## Example
+
+Dilemma around short-term fix versus long-term planning
+
+<img src = "Scenario-1.jpg">
+
 
 
 
