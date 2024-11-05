@@ -14,13 +14,13 @@ cascade:
 
 ## Aspirants
 
-1. Ambitious Tinkerer <img src = "Aspirant_Akanksha.png">
-2. Eco-preneur <img src = "Aspirant_Dhanman.png">
+1. Ambitious Tinkerer <img src = "Aspirant_Akanksha.jpg">
+2. Eco-preneur <img src = "Aspirant_Dhanman.jpg">
 
 ## Providers
 
-1. Steely Greenheart <img src = "Provider_Khanak.png">
-2. Green Machiavelli <img src = "Provider_Teevra">
+1. Steely Greenheart <img src = "Provider_Khanak.jpg">
+2. Green Machiavelli <img src = "Provider_Teevra.jpg">
 
 
 
