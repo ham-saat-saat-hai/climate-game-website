@@ -1,6 +1,6 @@
 ---
 title: "2024-11-22"
-date: 2024-11-08
+date: 2024-11-22
 description: ""
 
 cascade:
@@ -11,7 +11,7 @@ cascade:
 Yay, we finally have the board game almost ready. We will write another post later on. 
 
 ## To-Do List for PoC
-- [ ] Buy Affinity
+- [x] Buy Affinity
 - [ ] Send emails to Survey Lottery winners
 - [ ] Ask for change in presentation structure (ELM Phase 01 Review)
 - [ ] Get petty cash
