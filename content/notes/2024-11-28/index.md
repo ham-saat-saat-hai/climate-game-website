@@ -14,8 +14,10 @@ cascade:
 - Feedback - 12 min.
 
 ## To-Do List
-- Finalise character cards
-- Finalise decision cards
+- [X] Finalise character cards
+- [X] Finalise decision cards
+
+## To-Do List (2024-11-28)
 - Finalise number of tokens for demo
-- Get prints (tomorrow)
-- 
+- Get prints
+- Run through of the game ---the theatrics
