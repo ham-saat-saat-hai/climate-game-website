@@ -13,9 +13,10 @@ We had a busy and exciting time at the India Science Festival (ISF) at Fergusson
 This week, there was also a Hindu feature of our game, which very explains the mechanics of playing it. ([non-paywalled link](https://web.archive.org/web/20250130064905/https://www.thehindu.com/education/gamifying-education-how-board-and-digital-games-are-changing-learning/article69155200.ece) :P)
 
 ## Feedback
-For us, this 
-- Game Mechanics: Make a point calculation matrix
-- Advantages: Ensure balance
+For us, the Festival was our first time user testing our game and we expected quite a few hiccups. A major internal question we had was regarding how the tokens move ahead, which we eventually figured out. However, there were some more points that came up: 
+- Game Mechanics: 
+   - Make a point calculation matrix
+   - Advantages: Ensure balance
 - Content: Use more accessible language to rewrite 
 - Design: too many tokens on the board
 - Aesthetics: the colours, game cards, and so on
