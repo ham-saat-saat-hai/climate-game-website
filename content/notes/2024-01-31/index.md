@@ -12,6 +12,18 @@ We had a busy and exciting time at the India Science Festival (ISF) at Fergusson
 
 This week, there was also a Hindu feature of our game, which very explains the mechanics of playing it. ([non-paywalled link](https://web.archive.org/web/20250130064905/https://www.thehindu.com/education/gamifying-education-how-board-and-digital-games-are-changing-learning/article69155200.ece) :P)
 
+## Feedback
+For us, this 
+- Game Mechanics: Make a point calculation matrix
+- Advantages: Ensure balance
+- Content: Use more accessible language to rewrite 
+- Design: too many tokens on the board
+- Aesthetics: the colours, game cards, and so on
+- Roleplaying: Ensure that the player is incentivised to be the character
+- Balance between story and the board game mechanics
+- Rethink Jalwa Index---how much should it fluctuate?
+- Rethink Happiness Index---what happens when Janta are too happy/too sad?
+
 ## ISF Gallery
 
 {{< carousel images="{IMG_5357.jpg,IMG_5347.jpg,a-player-playing-game.jpeg,the-board.jpeg,fake-news.jpeg,isf-2025-with-logo.jpeg}" >}}
