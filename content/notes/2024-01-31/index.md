@@ -24,6 +24,7 @@ For us, the Festival was our first time user testing our game and we expected qu
 - Balance between story and the board game mechanics
 - Rethink Jalwa Index---how much should it fluctuate?
 - Rethink Happiness Index---what happens when Janta are too happy/too sad?
+- How are Jalwa and Happiness Index is moved? What do the units mean?
 
 ## ISF Gallery
 
