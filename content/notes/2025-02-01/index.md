@@ -1,6 +1,6 @@
 ---
 title: "2025-01-31"
-date: 2025-01-31
+date: 2025-02-01
 description: ""
 
 cascade:
@@ -20,8 +20,7 @@ After debriefing about ISF, we worked on the following:
    - Artist
    - Indie Journalist
    - Ambassdor
-   
+
    These characters can have identities described in their descriptions (an activist artist, a capitailist tech tycoon, and so on). We also need to re-work the advantages conferred to the characters. Chance cards could also be used to bring these advantages to stay.
 
 - We also need a systematic method to assign various variables to the dilemma cards. Therefore, we decided to write code to run Monto Carlo Simulations.
-
