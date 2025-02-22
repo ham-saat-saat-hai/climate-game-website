@@ -1,5 +1,5 @@
 ---
-title: "2025-02-20 | Phase 02 Immersion Week"
+title: "2025-02-20 | Phase 02 Immersion Week Day 01"
 date: 2025-02-20
 description: ""
 
