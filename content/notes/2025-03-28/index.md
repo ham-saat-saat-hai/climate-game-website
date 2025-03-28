@@ -1,6 +1,5 @@
-
 ---
-title: "2025-03 | Quick March Updates"
+title: "Quick March Updates"
 date: 2025-03-28
 description: ""
 
