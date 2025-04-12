@@ -59,3 +59,5 @@ Our team also enjoyed Indian Ocean's concert that week :P
 Anushka and Abhishek visited a Printers shop to negotiate prices, check out the quality and types of cardboard and paper for our game elements. I wish there were videos/images I could attach here. But it turns out that those two were so excited that they only managed to capture a video of their metro arriving.
 
 We also managed to continue working on game design and dilemma cards. Abhishek and Tanvi were busy going back and forth on the minutest details of the board whereas Anushka and Shweata banded together to assign metrics for dilemma cards.
+
+<img src = 'printers-visit.png'>
