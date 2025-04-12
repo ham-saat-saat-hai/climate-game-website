@@ -1,4 +1,3 @@
-/index.md
 ---
 title: "We finally hosted our first game night!"
 date: 2025-04-12
