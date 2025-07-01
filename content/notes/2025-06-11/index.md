@@ -29,6 +29,7 @@ cascade:
       - milestones---what do they mean?
       - relationship between janta and khayal
       - differentiating between power centre and bet zone
+      - winners: what if there is a tie in number of Janta and Khayal
    - Content
       - Rulebook
       - Card content
