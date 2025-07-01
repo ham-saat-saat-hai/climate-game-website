@@ -20,3 +20,4 @@ Here we go, yet another to-do list.
 - Make dilemma card bins [2025-07-10]
 - Figure out website [2025-07-10]
 - Handle Social Media [Anushka, yay :)]
+- Send documents to IP [2025-07-01]
