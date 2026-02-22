@@ -1,5 +1,6 @@
 ---
 title: "2026-02-22 Meeting Notes"
+date: 2026-02-22
 ---
 
 ## Meeting Notes
