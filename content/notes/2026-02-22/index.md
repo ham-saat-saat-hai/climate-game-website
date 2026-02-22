@@ -5,6 +5,8 @@ date: 2026-02-22
 
 ## Meeting Notes
 
+Shweata and Tanvi met in real-life. Anushka joined us online from India. Shweata finally has the board!
+
 ## Action points
 - Scrape Ashoka for patent-related work; check with Srikant for help
 - Write to Srikant and our advisors with updates on what we have been up to; schedule something for early April
