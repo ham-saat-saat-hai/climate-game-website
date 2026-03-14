@@ -1,4 +1,6 @@
 ---
+title: "2026-03-14 meeting"
+date: 2026-03-14
 
 ---
 - Shweata relayed feedback from the game play session in Cambridge last week.
