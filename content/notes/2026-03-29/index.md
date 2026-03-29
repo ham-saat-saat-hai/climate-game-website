@@ -1,6 +1,7 @@
 ---
 title: "2026-03-29 meeting notes"
 description: "meeting notes"
+date: 2026-03-29
 ---
 ## General Notes
 - SNH, TS, AB discussed some Ashoka gossip.
